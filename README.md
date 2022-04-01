@@ -17,7 +17,7 @@
 
 #### - 📫 How to reach me: ...
 ![channektoshka@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@cyberbuilder288](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![@cyberbuilder288](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=cyberbuilder288&logoColor=white)
 ![phisher13](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <!--
