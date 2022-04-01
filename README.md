@@ -2,7 +2,7 @@
 # I'm Dima Sheptytskyi, 18
 ### Backend Developer
 
-![](https://github-readme-stats.vercel.app/api?username={phisher13}&theme=blue-green)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 #### - 🌱 I’m currently learning ...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
