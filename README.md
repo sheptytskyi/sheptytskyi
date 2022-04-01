@@ -7,18 +7,17 @@
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-487e65?style=for-the-badge&logo=django)
-![FastApi](https://img.shields.io/badge/fastapi-316192?style=for-the-badge&logo=fastapi)
-![Redis](https://img.shields.io/badge/redis-316192?style=for-the-badge&logo=redis)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Mongo](https://img.shields.io/badge/mongodb-316192?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/docker-316192?style=for-the-badge&logo=docker)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 #### - 📫 How to reach me: ...
-![channektoshka@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@cyberbuilder288](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=cyberbuilder288&logoColor=white)
-![phisher13](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![channektoshka@gmail.com](https://img.shields.io/badge/channektoshka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![@cyberbuilder288](https://img.shields.io/badge/@cyberbuilder288-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![phisher13](https://img.shields.io/badge/phisher13-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <!--
 **phisher13/phisher13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
