@@ -2,7 +2,7 @@
 # I'm Dima Sheptytskyi, 18
 ### Backend Developer
 
-[](https://github-readme-stats.vercel.app/api?username={phisher13}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username={phisher13}&theme=blue-green)
 
 #### - 🌱 I’m currently learning ...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,7 +12,7 @@
 ![FastApi](https://img.shields.io/badge/fastapi-316192?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-316192?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mongo](https://img.shields.io/badge/mongo-316192?style=for-the-badge&logo=mongo&logoColor=white)
+![Mongo](https://img.shields.io/badge/mongodb-316192?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 
 
