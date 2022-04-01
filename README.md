@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-487e65 ?style=for-the-badge&logo=django)
+![Django](https://img.shields.io/badge/django-487e65?style=for-the-badge&logo=django)
 ![FastApi](https://img.shields.io/badge/fastapi-316192?style=for-the-badge&logo=fastapi)
 ![Redis](https://img.shields.io/badge/redis-316192?style=for-the-badge&logo=redis)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
