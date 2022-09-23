@@ -4,8 +4,8 @@
 
 #### - 🌱 I’m currently learning ...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=purple)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-ae00ff?style=for-the-badge&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-00f7ff?style=for-the-badge&logo=flask&logoColor=black)
 ![Django](https://img.shields.io/badge/django-487e65?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
